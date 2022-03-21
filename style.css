@@ -8,6 +8,7 @@ html {
     font-weight: 300;
     height: 100%;
     background-color: #778a9e;
+    word-wrap: normal;
 }
 
 img {
