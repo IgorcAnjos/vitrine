@@ -11,13 +11,17 @@ html {
     font-size: large;
 }
 
-img {
+#apresentação img {
     margin-top: 40px;
     border-radius: 50%;
     width: 20%;
     border: 4px solid ;
     padding: 4px;
     border-color: #aac9ea;
+}
+
+.arvorelinks img {
+    width: 20px;
 }
 
 h1{
